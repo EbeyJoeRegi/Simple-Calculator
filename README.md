@@ -1,4 +1,4 @@
 # Simple Calculator
-![Calc](images/Calc.png)
+![Calc](images/calc.png)
 
  
